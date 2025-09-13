@@ -34,18 +34,19 @@ License: MIT + file LICENSE
 Imports: data.table, vctrs
 Suggests: dplyr, random.cdisc.data, rmarkdown, tern, kableExtra,
         testthat (>= 3.0.0), bench, tidyr, rtables, dtlg.data (>=
-        0.1.9000), withr
+        0.2.0), withr
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Depends: R (>= 4.1.0)
+Remotes: ascentsoftware/dtlg.data
 Config/testthat/edition: 3
 Config/Needs/website: rmarkdown, ascentsoftware/ascentdown
 LazyData: true
-Remotes: ascentsoftware/dtlg.data
 URL: https://AscentSoftware.github.io/dtlg
+Additional_repositories: https://ascentsoftware.r-universe.dev
 NeedsCompilation: no
-Packaged: 2025-09-13 22:11:09 UTC; rmagno
+Packaged: 2025-09-13 23:44:05 UTC; rmagno
 Author: Max Ebenezer-Brown [aut],
   Max Norman [aut],
   Xinye Li [aut],
