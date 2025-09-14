@@ -44,7 +44,7 @@ LazyData: true
 URL: https://AscentSoftware.github.io/dtlg/
 Additional_repositories: https://ascentsoftware.r-universe.dev
 NeedsCompilation: no
-Packaged: 2025-09-14 00:27:49 UTC; rmagno
+Packaged: 2025-09-14 00:34:24 UTC; rmagno
 Author: Max Ebenezer-Brown [aut],
   Max Norman [aut],
   Xinye Li [aut],
